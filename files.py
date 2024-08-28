@@ -10,7 +10,7 @@ f = open(r'/Users/rishi/Prepinsta/Pyhton prime course resources/Python Files/sam
 # Relative path
 #f1 = open(r'Python Files/sample.txt')
 
-
+print("updated")
 #text = f.read()
 text = f.readlines()
 f.close()
